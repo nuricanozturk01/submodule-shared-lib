@@ -12,7 +12,7 @@ public class HelloService {
     return "Hello";
   }
 
-  public @NonNull String hello2() {
+  public @NonNull String hello3() {
 
     return "Hello2";
   }
