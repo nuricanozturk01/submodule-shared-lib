@@ -11,4 +11,9 @@ public class HelloService {
 
     return "Hello";
   }
+
+  public @NonNull String hello2() {
+
+    return "Hello2";
+  }
 }
